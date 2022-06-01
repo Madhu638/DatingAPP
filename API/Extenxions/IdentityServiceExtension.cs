@@ -27,6 +27,7 @@ namespace API.Extenxions
                     ValidateAudience=false
                 };
             });
+            return services;
         }
     }
 }
